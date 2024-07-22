@@ -1,0 +1,53 @@
+
+.op{
+    margin-top: 3%;
+}
+h1{
+    margin-top: -2%;
+    display: inline-block;
+    font-size: 50Px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ot{
+  margin-top: -3%;
+}
+
+li{
+    padding: 10px 25px;
+    display: inline-block;
+}
+
+ul{
+    width: 51%;
+    border: 3px solid black;
+    border-left: none;
+    border-right: none;
+}
+
+.wow{
+    color: red;
+}
+
+.pic1{
+    width: 18%;
+    height: 200px;
+    margin-left: 23%;
+}
+
+.pic2{
+    width: 20%;
+    height: 200px;
+}
+
+.pic3{
+    width: 15%;
+    height: 200px;
+}
+
+p{
+    width:60%;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}

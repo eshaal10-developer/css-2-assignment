@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(231, 224, 218);
+}
+
+li{
+    color: rgb(37, 31, 31);
+    display: inline-block;
+    padding: 10px 100px;
+    margin-top: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    border: 1px solid ;
+    width: 930px;
+    height: 420px;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 4%;
+    font-size: 350%;
+}
+
+p{
+    margin-left: 4%;
+    font-size: 150%;
+}
+h4{
+    margin-top: 12%;
+    margin-left: 3%;
+    
+}
+
+.one{
+    width: 5%;
+    height: 50px;
+    margin-left: 2%;
+   
+}
+
+img{
+    width: 5%;
+    height: 50px;
+    margin-left: 2%;
+}
+
+.the{
+    margin-left: 59%;
+    width: 40%;
+    height: 380px;
+    margin-top: -50%;
+
+}
+
